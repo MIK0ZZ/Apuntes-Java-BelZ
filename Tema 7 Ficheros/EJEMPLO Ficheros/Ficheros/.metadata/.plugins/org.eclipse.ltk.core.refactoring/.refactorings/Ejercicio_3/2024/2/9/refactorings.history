@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;input.txt&apos; to &apos;Ejercicio_3/src/data&apos;&#x0D;&#x0A;- Original project: &apos;Ejercicio_3&apos;&#x0D;&#x0A;- Destination element: &apos;Ejercicio_3/src/data&apos;&#x0D;&#x0A;- Original element: &apos;input.txt&apos;" description="Copy file" destination="/src&lt;data" element1="src/data/input.txt" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1709207279772" units="0" version="1.0"/>
+</session>

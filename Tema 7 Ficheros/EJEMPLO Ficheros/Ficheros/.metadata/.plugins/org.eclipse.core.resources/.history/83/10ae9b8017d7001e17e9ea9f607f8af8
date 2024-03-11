@@ -1,0 +1,48 @@
+package main;
+
+import java.io.Closeable;
+import java.io.File;
+// Reading data from a file using FileReader 
+import java.io.FileNotFoundException; 
+import java.io.FileReader; 
+import java.io.IOException;
+import java.util.Scanner; 
+/**
+ * I've written a Java program which reads a series of real numbers from a text file 
+ * into an array. I would like to use -1.0 as a sentinel so that scanner 
+ * stops reading from the file when it reaches -1.0.
+ */
+class Main {
+	public static void main(String[] args) throws FileNotFoundException {
+		// Create file and scanner objects
+		File inputFile = new File("in.txt");
+		Scanner in = new Scanner(inputFile);
+
+		// declare variables
+		double[] myArray = new double[100];
+		int i = 0;
+		double min = myArray[0];
+		double max = myArray[0];
+
+		// Read numbers from file, add to array and determine min/max values
+		while (in.hasNextDouble()) {
+			myArray[i] = in.nextDouble();
+			if (myArray[i] < min) {
+				min = myArray[i];
+			}
+			if (myArray[i] > max) {
+				max = myArray[i];
+			}
+			i++;
+		}
+
+		// Calculate and print weighting
+
+		for (int index = 0; index < myArray.length; index++) {
+			double num = myArray[index];
+			double weighting = (num - min) / (max - min);
+			System.out.printf("%8.4f %4.2f\n", num, weighting);
+		}
+	}
+}
+

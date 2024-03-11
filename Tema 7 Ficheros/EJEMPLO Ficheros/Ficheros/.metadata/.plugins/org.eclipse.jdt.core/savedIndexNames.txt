@@ -1,0 +1,8 @@
+INDEX VERSION 1.134+E:\CURSO 2024\Apuntes y Ejercicios\1 Programación\APUNTES\Tema 7 Ficheros\EJEMPLO Ficheros\Ficheros\.metadata\.plugins\org.eclipse.jdt.core
+1744062225.index
+1620673288.index
+4187017906.index
+1865797976.index
+396276638.index
+2314872381.index
+4277999275.index

@@ -1,0 +1,17 @@
+package main;
+
+// Reading data from a file using FileReader 
+import java.io.FileNotFoundException; 
+import java.io.FileReader; 
+import java.io.IOException; 
+class Main { 
+    public static void main(String[] args) throws IOException { 
+        // Passing the file’s path 
+        FileReader f = new FileReader("./src/data/input.txt");
+        // declaring loop variable
+        int i;
+             while ((i = f.read()) != -1)
+            	 // Print the content of a file
+            	 System.out.print((char)i);
+    } 
+} 

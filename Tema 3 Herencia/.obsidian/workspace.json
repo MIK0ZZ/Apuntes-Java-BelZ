@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "9e143994a3f65d65",
+    "type": "split",
+    "children": [
+      {
+        "id": "12890cfb6dcf1896",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2ce8f3d43957575",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Polimorfismo/6 Tipo de un objeto en ejecución.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "81d4ef8e605b8400",
+    "type": "split",
+    "children": [
+      {
+        "id": "8acbdaf19862500b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6644604aa4192ff2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a49075e216ebbb7b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9c1e1e2ce05fbc4a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2e6bcd1864f78108",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f1130776ff9839a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35578688acb0cac8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Polimorfismo/6 Tipo de un objeto en ejecución.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "09bfc4516f3d54dc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Polimorfismo/6 Tipo de un objeto en ejecución.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b8c04ec1d7b9ad6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bea529062f99ad92",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Polimorfismo/6 Tipo de un objeto en ejecución.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "b2ce8f3d43957575",
+  "lastOpenFiles": [
+    "Polimorfismo/5 Casting.md",
+    "Polimorfismo/6 Tipo de un objeto en ejecución.md",
+    "Herencia/8 Métodos.md",
+    "Polimorfismo/4 Herencia múltiple.md",
+    "Herencia/4 Ejemplo1.md",
+    "Herencia/5 Niveles de Proteccion.md",
+    "Herencia/6 Constructoras.md",
+    "Herencia/7 Colisión de nombres con herencia.md",
+    "Herencia/9 Ejemplos Métodos.md",
+    "Herencia/10 Modificador `final`.md",
+    "Herencia/11 Sobrecarga.md",
+    "Herencia/12 Sobreescritura.md",
+    "Polimorfismo/1 Polimorfismo.md",
+    "Polimorfismo/2 Vinculación dinámica.md",
+    "Polimorfismo/3 Ejemplos Vinculación dinámica.md",
+    "Polimorfismo/Pasted image 20240116190618.png",
+    "Polimorfismo/Pasted image 20240116190542.png",
+    "Polimorfismo/Pasted image 20240116183558.png",
+    "Polimorfismo",
+    "Herencia",
+    "Herencia/3 Sintaxis.md",
+    "Herencia/1 Concepto.md",
+    "Herencia/2 Jerarquía de clases.md",
+    "Welcome.md"
+  ]
+}

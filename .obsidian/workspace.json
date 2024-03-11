@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "a8c2839782592c99",
+    "type": "split",
+    "children": [
+      {
+        "id": "816e6ee512b8095f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c4130228fc5edeb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tema Extra Complejidad/1 Complejidad algorítmica.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fa4c8993489131ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f183ac2565e08c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86bdd346c1e235a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "abf6610ca96a80c9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4d48a72b1ba7055c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "48b3f9f2d1f09120",
+    "type": "split",
+    "children": [
+      {
+        "id": "459fc3ee6fcfcf5c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c973bfd9c2d96153",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Tema Extra Complejidad/1 Complejidad algorítmica.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5f65920130ebc2ea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Tema Extra Complejidad/1 Complejidad algorítmica.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6d846f399881dc60",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2b9d75aab5d1b7e5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tema Extra Complejidad/1 Complejidad algorítmica.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "2c4130228fc5edeb",
+  "lastOpenFiles": [
+    "Tema 7 Ficheros/4 Lectura y escritura en ficheros de texto con la clase Scanner/3 Excepciones de la clase Scanner.md",
+    "Tema 7 Ficheros/4 Lectura y escritura en ficheros de texto con la clase Scanner/2 Principales operaciones de la clase Scanner.md",
+    "Tema 7 Ficheros/4 Lectura y escritura en ficheros de texto con la clase Scanner/1 Lectura con la clase Scanner.md",
+    "Tema 7 Ficheros/3 Ficheros de Texto/1 Miscelánea de clases.md",
+    "Tema 7 Ficheros/2 Ficheros Binarios/1 Miscelánea de clases.md",
+    "Tema 7 Ficheros/1 Conceptos Generales/7 Objetos stream predefinidos.md",
+    "Tema 7 Ficheros/1 Conceptos Generales/6 Jerarquía de clases streams de caracteres.md",
+    "Tema 7 Ficheros/1 Conceptos Generales/5 Jerarquía de clases streams binarios.md",
+    "Tema 7 Ficheros/1 Conceptos Generales/4 Uso de los streams.md",
+    "Tema 7 Ficheros/1 Conceptos Generales/3 Clasificación de los streams.md",
+    "Tema 7 Ficheros/1 Conceptos Generales/2 Flujo de datos.md",
+    "Tema 7 Ficheros/1 Conceptos Generales/1 Definición.md",
+    "Tema 6 Excepciones/6 Aclaraciones (Extra).md",
+    "Tema 6 Excepciones/5 Funcionamiento.md",
+    "Tema 6 Excepciones/4 Definición.md",
+    "Tema 6 Excepciones/3 Árbol.md",
+    "Tema 6 Excepciones/2 Lanzamiento.md",
+    "Tema 6 Excepciones/1 Introducción.md",
+    "Tema 4 Clases Abstractas e Interfaces/4 Implementación.md",
+    "Tema 4 Clases Abstractas e Interfaces/3 Sintaxis.md",
+    "Tema 4 Clases Abstractas e Interfaces/2 Interfaces y clases abstractas diferencias.md",
+    "Tema 4 Clases Abstractas e Interfaces/1 Clases abstractas.md",
+    "Tema 3 Herencia/Polimorfismo/6 Tipo de un objeto en ejecución.md",
+    "Tema 3 Herencia/Polimorfismo/5 Casting.md",
+    "Tema 3 Herencia/Polimorfismo/4 Herencia múltiple.md",
+    "Tema 3 Herencia/Polimorfismo/3 Ejemplos Vinculación dinámica.md",
+    "Nota Extra ArrayList.pdf",
+    "Tema Extra Complejidad"
+  ]
+}

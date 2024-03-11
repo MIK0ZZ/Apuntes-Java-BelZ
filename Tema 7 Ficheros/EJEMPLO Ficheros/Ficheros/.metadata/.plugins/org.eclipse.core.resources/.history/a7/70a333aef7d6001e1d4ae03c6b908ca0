@@ -1,0 +1,30 @@
+package main;
+
+// Reading data from a file using FileReader 
+import java.io.FileNotFoundException; 
+import java.io.FileReader; 
+import java.io.IOException; 
+class Main { 
+    public static void main(String[] args) throws IOException { 
+        // variable declaration 
+        int ch;
+        String cadena = "";
+  
+        // check if File exists or not 
+        FileReader fr = null; 
+        
+        try { 
+            fr = new FileReader("./src/data/input.txt"); 
+        } 
+        catch (FileNotFoundException fe) { 
+            System.out.println("File not found"); 
+        } 
+  
+        // read from FileReader till the end of file 
+        while ((ch = fr.read()) != -1) 
+            cadena += (char)ch;
+        System.out.print(cadena);
+        // close the file 
+        fr.close(); 
+    } 
+} 

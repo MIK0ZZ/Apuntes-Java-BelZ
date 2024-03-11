@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "fb5f25432dec607c",
+    "type": "split",
+    "children": [
+      {
+        "id": "409552fc371b49bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3c07b383a6ba71b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 Definición.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff9d7a5b96920b30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 Funcionamiento.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c35fb8590cced77c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "6 Aclaraciones (Extra).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2a033f0a327dd11b",
+    "type": "split",
+    "children": [
+      {
+        "id": "733de674575d7b46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72752e96cc5f11e7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ae19ee739f2d19f1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5e2626d290e97666",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "936111bb2c7dd40f",
+    "type": "split",
+    "children": [
+      {
+        "id": "0951a942fde7890b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b6370dae5bc86389",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "6 Aclaraciones (Extra).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e290d7100070f5ba",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "6 Aclaraciones (Extra).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "31a3b7a8e5fa62df",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "55f33df0aa6cefbd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "6 Aclaraciones (Extra).md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "c35fb8590cced77c",
+  "lastOpenFiles": [
+    "3 Árbol.md",
+    "6 Aclaraciones (Extra).md",
+    "5 Funcionamiento.md",
+    "4 Definición.md",
+    "5 Funcionamiento2.md",
+    "2 Lanzamiento.md",
+    "1 Introducción.md",
+    "Pasted image 20240208174516.png",
+    "Pasted image 20240208172652.png",
+    "Welcome.md"
+  ]
+}

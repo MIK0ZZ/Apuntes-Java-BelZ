@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "6197341e032c04ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0261441f4408dc9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b5ef12165eb897e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 Ficheros de Texto/1 Miscelánea de clases.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "62a7ed7957d45b10",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 Lectura y escritura en ficheros de texto con la clase Scanner/1 Lectura con la clase Scanner.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cfa3df246b799e20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 Lectura y escritura en ficheros de texto con la clase Scanner/2 Principales operaciones de la clase Scanner.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2cb3cfcc9dd89920",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 Excepciones de la clase Scanner.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ace9fe538e3719f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a61592ba64e64d2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c303edc0095a7946",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "76c1eb29bc2a3f45",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "21542a69f0cfa1f1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "4c7ac4e5c054b74b",
+    "type": "split",
+    "children": [
+      {
+        "id": "e25d62964dfbb581",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6487e0f264eba983",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3 Ficheros de Texto/1 Miscelánea de clases.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e13ca29ed6093586",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3 Ficheros de Texto/1 Miscelánea de clases.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "195a25fccac48af1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "08aeca408d05b1c6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3 Ficheros de Texto/1 Miscelánea de clases.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "0b5ef12165eb897e",
+  "lastOpenFiles": [
+    "4 Lectura y escritura en ficheros de texto con la clase Scanner/1 Lectura con la clase Scanner.md",
+    "4 Lectura y escritura en ficheros de texto con la clase Scanner/2 Principales operaciones de la clase Scanner.md",
+    "3 Excepciones de la clase Scanner.md",
+    "Media/Pasted image 20240226191428.png",
+    "3 Ficheros de Texto/1 Miscelánea de clases.md",
+    "4 Lectura y escritura en ficheros de texto con la clase Scanner",
+    "Media/Pasted image 20240226190821.png",
+    "2 Ficheros Binarios/1 Miscelánea de clases.md",
+    "3 Ficheros de Texto",
+    "2 Ficheros Binarios",
+    "1 Conceptos Generales",
+    "1 Conceptos Generales/7 Objetos stream predefinidos.md",
+    "1 Conceptos Generales/6 Jerarquía de clases streams de caracteres.md",
+    "1 Conceptos Generales/5 Jerarquía de clases streams binarios.md",
+    "1 Conceptos Generales/4 Uso de los streams.md",
+    "Media",
+    "Media/Pasted image 20240226185429.png",
+    "Media/Pasted image 20240226185415.png",
+    "1 Conceptos Generales/3 Clasificación de los streams.md",
+    "1 Conceptos Generales/2 Flujo de datos.md",
+    "1 Conceptos Generales/1 Definición.md",
+    "Welcome.md"
+  ]
+}
