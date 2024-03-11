@@ -2,10 +2,10 @@
 Creditos: Jonathan Carrero
 
 ## Descripción
-Repositorio de apuntes de Java del curso de 1ºDAM 2023-2024, iré actualizandolos según vaya avanzando.
+Repositorio de apuntes de Java del curso de 1ºDAM 2023-2024, iré actualizándolos según vaya avanzando.
 
 ## Dependencias?
-- Obsidian
+- Obsidian.
 - Jdk21 y un IDE para testear los ejemplos.
 
 ## Instalación
